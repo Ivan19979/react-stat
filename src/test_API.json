@@ -1,0 +1,68 @@
+{
+  "years": {
+    "2020": {
+      "objects": {
+        "Нижний Новгород": [
+          {"month": "Jan", "plan": "350", "fact": "300"},
+          {"month": "feb", "plan": "350", "fact": "250"},
+          {"month": "mar", "plan": "300", "fact": "270"},
+          {"month": "apr", "plan": "220", "fact": "150"},
+          {"month": "may", "plan": "220", "fact": "190"},
+          {"month": "jun", "plan": "210", "fact": "210"},
+          {"month": "Jul", "plan": "260", "fact": "220"},
+          {"month": "aug", "plan": "360", "fact": "320"},
+          {"month": "cept", "plan": "350", "fact": "300"},
+          {"month": "oct", "plan": "350", "fact": "290"},
+          {"month": "nov", "plan": "290", "fact": "270"},
+          {"month": "dec", "plan": "180", "fact": "170"}
+        ],
+        "Москва": [
+          {"month": "Jan", "plan": "250", "fact": "200"},
+          {"month": "feb", "plan": "250", "fact": "150"},
+          {"month": "mar", "plan": "200", "fact": "170"},
+          {"month": "apr", "plan": "320", "fact": "250"},
+          {"month": "may", "plan": "320", "fact": "290"},
+          {"month": "jun", "plan": "310", "fact": "310"},
+          {"month": "Jul", "plan": "360", "fact": "320"},
+          {"month": "aug", "plan": "260", "fact": "220"},
+          {"month": "sept", "plan": "250", "fact": "200"},
+          {"month": "oct", "plan": "250", "fact": "190"},
+          {"month": "nov", "plan": "390", "fact": "370"},
+          {"month": "dec", "plan": "180", "fact": "170"}
+        ]
+      }
+    },
+    "2021": {
+      "objects": {
+        "Нижний Новгород": [
+          {"month": "Jan", "plan": "150", "fact": "100"},
+          {"month": "feb", "plan": "150", "fact": "150"},
+          {"month": "mar", "plan": "100", "fact": "270"},
+          {"month": "apr", "plan": "220", "fact": "150"},
+          {"month": "may", "plan": "220", "fact": "190"},
+          {"month": "jun", "plan": "210", "fact": "210"},
+          {"month": "Jul", "plan": "260", "fact": "220"},
+          {"month": "aug", "plan": "160", "fact": "120"},
+          {"month": "cept", "plan": "150", "fact": "100"},
+          {"month": "oct", "plan": "150", "fact": "190"},
+          {"month": "nov", "plan": "290", "fact": "270"},
+          {"month": "dec", "plan": "380", "fact": "370"}
+        ],
+        "Москва": [
+          {"month": "Jan", "plan": "150", "fact": "200"},
+          {"month": "feb", "plan": "150", "fact": "150"},
+          {"month": "may", "plan": "100", "fact": "170"},
+          {"month": "apr", "plan": "220", "fact": "150"},
+          {"month": "may", "plan": "220", "fact": "190"},
+          {"month": "jun", "plan": "210", "fact": "210"},
+          {"month": "Jul", "plan": "260", "fact": "220"},
+          {"month": "aug", "plan": "360", "fact": "320"},
+          {"month": "sept", "plan": "350", "fact": "300"},
+          {"month": "oct", "plan": "350", "fact": "290"},
+          {"month": "nov", "plan": "290", "fact": "270"},
+          {"month": "dec", "plan": "180", "fact": "170"}
+        ]
+      }
+    }
+  }
+}
