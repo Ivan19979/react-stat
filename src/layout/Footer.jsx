@@ -5,7 +5,7 @@ function Footer() {
       <div className="footer-copyright">
         <div className="container">
         © {new Date().getFullYear()} Copyright Text
-        <a className="grey-text text-lighten-4 right" href="#!">Github Repo</a>
+        <a className="grey-text text-lighten-4 right" href="https://github.com/Ivan19979/react-stat">Github Repo</a>
         </div>
       </div>
     </footer>
