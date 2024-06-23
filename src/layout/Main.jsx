@@ -18,14 +18,14 @@ class Main extends React.Component {
       case "object":
         this.setState({
           object: event.target.value,
-          stat: jsonData.years[this.state.period].objects[this.state.object]
+          stat: jsonData.years[this.state.period].objects[event.target.value]
         })
         break;
 
       case "period":
         this.setState({
           period: event.target.value,
-          stat: jsonData.years[this.state.period].objects[this.state.object]
+          stat: jsonData.years[event.target.value].objects[this.state.object]
         })
         break;
     
